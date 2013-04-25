@@ -1,7 +1,7 @@
 Startup Leadership Best Practices
 =================================
 
-This is a collection of best practices for organizations, especially those with limited resources, e.g. Startups, NGOs. This is by no means a definitive list, but meant to serve as a start of a conversation.
+This document should be considered as a *working document* at all times and may be modified based on experiences and feedback.
 
 Purpose
 -------
@@ -16,6 +16,4 @@ For a startup, or any organization in an unstable, fast moving industry, to oper
 Inspirations
 ------------
 
-This document is heavily influenced by Sir Richard Branson’s approach for establishing and growing the Virgin Group. Agile Software Development manifesto also inspired many of the documented practices, with greater responsibility placed on the leader to follow through. Other inspirations include the Lean Startup Principles and 37Signals’ Rework. A minor influence is the Straw Hats crews within One Piece manga universe.
-
-This document should be considered as a working document at all times and may be modified based on experiences and feedback.
+This document is heavily influenced by Sir Richard Branson’s [approach](http://www.entrepreneur.com/article/223639) for establishing and growing the Virgin Group. Agile Software Development [manifesto](http://agilemanifesto.org/) also inspired many of the documented practices, with greater responsibility placed on the leader to follow through. Other inspirations include the Lean Startup [Principles](http://theleanstartup.com/principles) and 37Signals’ [Rework](http://37signals.com/rework/). A minor influence is the [Straw Hats](http://onepiece.wikia.com/wiki/Straw_Hat_Pirates) within One Piece manga universe.
