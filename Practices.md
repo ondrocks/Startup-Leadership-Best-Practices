@@ -1,4 +1,4 @@
-Soshio Leadership Best Practices
+Startup Leadership Best Practices
 ================================
 Purpose
 -------
